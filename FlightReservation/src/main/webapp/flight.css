@@ -1,0 +1,42 @@
+header, footer {
+	text-align : center;
+	height:200px
+}
+
+hr{
+	height : 3px;
+	background-color:red;
+	box-shadow: 5px 5px 5px black;
+}
+
+header span{
+	font-size:48px;
+	color: orange;
+	text-indent: 5px 5px 5px black;
+	font-family: cursive;
+}
+
+section h2{
+	height:50px;
+	text-align: center;
+	color:black;
+}
+.log{
+	
+	height:100px;
+}
+
+	h1{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	}
+
+
+.bg{
+ background-image: url("images/bg.jpg");
+ background-repeat: no-repeat;
+ background-size: 1500px;
+ background-position: center;
+ }
+	
